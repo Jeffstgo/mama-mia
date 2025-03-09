@@ -1,6 +1,6 @@
 const CardPizza = ({ name, price, ingredients, img }) => {
   return (
-    <div className="col-md-4 mb-4">
+    <div className="col-md-4 mt-4">
       <div className="card">
         <img src={img} className="card-img-top" alt={name} />
         <div className="card-body">

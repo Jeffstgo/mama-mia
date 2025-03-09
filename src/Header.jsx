@@ -7,6 +7,7 @@ const Header = () => {
         backgroundSize: "cover",
         backgroundPosition: "center",
         height: "300px",
+        
       }}
     >
       <h1>Pizzería Mamma Mia</h1>
